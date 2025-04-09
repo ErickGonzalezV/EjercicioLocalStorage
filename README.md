@@ -7,6 +7,6 @@ Tareas por realizar:
 
 
 > Vista del index.html
-![Index](https://raw.githubusercontent.com/ErickGonzalezV/EjercicioDOM/refs/heads/main/images/Screenshot%202025-04-08%20104252.png)
+![Index](https://raw.githubusercontent.com/ErickGonzalezV/EjercicioLocalStorage/refs/heads/main/Screenshots/Index%20ejercicio.png)
 > Vista del Welcome
-> ![Welcome](https://raw.githubusercontent.com/ErickGonzalezV/EjercicioDOM/refs/heads/main/images/Screenshot%202025-04-08%20104252.png)
+> ![Welcome](https://raw.githubusercontent.com/ErickGonzalezV/EjercicioLocalStorage/refs/heads/main/Screenshots/Welcome%20Ejercicio.png)
