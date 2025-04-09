@@ -1,7 +1,7 @@
 let encabezado1 = document.getElementById("encabezado1");
 let nombre = localStorage.getItem("nombre");
 
-
+// En la pagina welcome, mostrar nombre (si lo hay) o pedir que introduzca uno en la pagina anterior
 function agrega(){
     if(nombre!= null){
     encabezado1.innerHTML += `<h1>Hola ${nombre}, bienvenido/a de nuevo</h1>`;
