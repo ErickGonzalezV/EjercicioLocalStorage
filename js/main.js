@@ -1,10 +1,13 @@
 let btnGuardar = document.getElementById("btnGuardar");
 
+//Funcion del boton guardar para recibir lo que se escriba en el input.
 btnGuardar.addEventListener("click", function(){
     let inputNombre = document.getElementById("nombre").value;
     localStorage.setItem("nombre", inputNombre);
-
 });
+
+// En la pagina welcome, mostrar nombre (si lo hay) o pedir que introduzca uno en la pagina anterior
+
 
 
 
